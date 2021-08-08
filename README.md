@@ -1,3 +1,10 @@
+---
+
+# (Archived) AutoMOC has been merged with Zoottelkeeper Plugin
+
+---
+
+
 # Obsidian Zoottelkeeper
 
 ## 1. General Idea
