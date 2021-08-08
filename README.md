@@ -1,6 +1,6 @@
 ---
 
-# (Archived) AutoMOC has been merged with Zoottelkeeper Plugin
+# (Archived) AutoMOC has been merged with the official [Zoottelkeeper Plugin](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin)
 
 ---
 
